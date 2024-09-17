@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohan00018
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning html 
+- 🌱 I’m currently learning web developing
 - 📫 How to reach me -rohanroy1218@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
